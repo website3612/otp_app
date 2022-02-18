@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "377519658393",
+    "project_id": "otpscreen-21a4d",
+    "storage_bucket": "otpscreen-21a4d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377519658393:android:cc7ec9ec08f6d18f70af08",
+        "android_client_info": {
+          "package_name": "com.example.otpscreen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377519658393-sjc245t7j1tvcsmoqp6tqk90cou6oeie.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGBoC4qRgbfKiCR2U0JDXAYrkLzKgsjko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377519658393-sjc245t7j1tvcsmoqp6tqk90cou6oeie.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
